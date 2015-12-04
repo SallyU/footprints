@@ -1,0 +1,16 @@
+body{font-family:微软雅黑}
+#main{height:auto;width:auto;border: 1px solid #7ecef4;}
+#position{height:29px;width:auto;margin-top:1px;margin-left:1px;background:#7ecef4;color:white;line-height:30px;font-size:15px;}
+#container{height:auto;width:auto;font-size:13px;color:#535353;}
+a:link {text-decoration: none;color:black;}
+a:visited {text-decoration: none;color:#7ecef1;}
+a:active {text-decoration: none;color:#7ecef1}
+a:hover {text-decoration: none;color:gray}
+.tr-1{height:50px;width:auto;margin-top:5px;margin-left:1px;border-bottom:1px dashed #d2d2d2;font-size:13px;color:#535353;line-height:40px}
+.tr-2{height:310px;width:auto;margin-top:5px;margin-left:1px;border-bottom:1px dashed #d2d2d2;font-size:13px;color:#535353;line-height:40px}
+.tr-3{height:50px;width:auto;margin-top:5px;margin-left:1px;border-bottom:1px dashed #d2d2d2;font-size:13px;color:#535353;line-height:40px}
+.td-1{height:50px;width:auto;margin-left:10px;float:left;}
+.td-2{height:50px;width:auto;margin-left:10px;float:left}
+.td-3{height:50px;width:auto;margin-left:10px;float:left}
+.must{color:red}
+textArea{resize:none;}
