@@ -1,2 +1,2 @@
 # footprints
-A muilty users SNS website .
+A multi-users SNS website .
